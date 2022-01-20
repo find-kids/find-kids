@@ -8,6 +8,10 @@ body {
   margin: 0 auto;
 }
 
+ul {
+  padding: 0 20px;
+}
+
 header {
   border-bottom: 1px solid #ccc;
 }
